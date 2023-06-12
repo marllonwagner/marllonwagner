@@ -2,15 +2,16 @@
 
 
 - 🔭 I’m currently working on a dental clinic System based on Nest.js
-- 
+
 - 🌱 I’m currently learning ...
-- 
+
 - 👯 I’m looking to collaborate on ...
-- 
+ 
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
-- 
-- 📫 How to reach me: marllonwagner91@gmail.com
+
+- 📫 How to reach me: marllonwagner91@gmail.com 
 
 - ⚡ Fun fact: ...
 
