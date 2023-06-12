@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a dental clinic System based on Nest.js
+- 🔭 I’m currently working on a dental clinic system based on Nest.js
 
 - 🌱 I’m currently learning ...
 
