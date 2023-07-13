@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a dental clinic system based on Nest.js
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java Spring
 
 - 👯 I’m looking to collaborate on ...
  
